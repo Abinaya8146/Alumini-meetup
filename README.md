@@ -108,7 +108,6 @@ project-root/
 Frontend will run on the URL displayed by Vite, typically:
 
 
-
 🔌 API Architecture
 
 The backend follows a RESTful API structure.
